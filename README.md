@@ -12,7 +12,7 @@ Back-end for e-commerce website.
 
 ## Walkthrough Videos
 
-
+<https://github.com/Kenjib32/E-Commerce-Week-13-Challenge/tree/main/assets/Video>
 
 ## Complied Criteria
 
